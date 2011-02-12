@@ -1,0 +1,37 @@
+Introduction
+------------
+
+This git repository contains the genetic information for Manu Sporny
+extracted using the Illumina OmniExpress Plus Genotyping Beadchip in 2011.
+
+The main data file contains roughly 1 million genetic markers that
+identify things like eye color, resistance to certain diseases,
+carrier status of other diseases such as glaucoma, certain types of
+cancers, obesity, how susceptible I am to Multiple Sclerosis and other 
+important health markers that could be used to prevent health issues
+in the future.
+
+I am releasing this data because I believe that it will help others.
+
+One way that it could help is that it gives Computer Scientists and 
+Bio-Engineers some raw test data to work with that is around 99% accurate.
+Just having real data to work with is important when writing Open Source
+software and there is very little good Open Source software for genomics
+research right now. I hope that by releasing this data, and with the
+planned release of some open source software to work with this data in
+real-time, that we will help move this exciting new industry forward.
+
+License
+-------
+
+To the extent possible under law, Manu Sporny has waived all copyright and 
+related or neighboring rights to Manu Sporny's Genetic Data from 
+23andme.com. This work is published from: United States.
+
+I am releasing the genetic data held in this repository under a 
+Creative Commons Public Domain License (CC0). You can read more about
+this license here:
+
+http://creativecommons.org/publicdomain/zero/1.0/
+
+
